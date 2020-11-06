@@ -11,7 +11,7 @@ hexschool1030
 ### 本週訓練菜單
 
 * 1.1 做當週關卡作業，吸收當週教授觀念
-* 1.3 將本週教授內容寫成[部落格](https://)，以加深程式觀念
+* 1.3 將本週教授內容寫成[部落格](https://viccjiang.github.io/)，以加深程式觀念
 * 1.4 自主學習新語法，並寫成筆記 [ jQuery 基礎教學筆記 ](https://codepen.io/viccjiang/pen/wvWxwNd)
 
 ~~* 3.1 透過 keybr.com 練習英打，荒廢了好幾天，下周要堅持下去 ! 預計每天都要練習10min~~
